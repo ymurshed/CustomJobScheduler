@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quartz.Plugins.RecentHistory", "Quartz.Plugins.RecentHistory\Quartz.Plugins.RecentHistory.csproj", "{A65FE034-525D-4ABB-988A-D072D9A34AC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quartzmin", "Quartzmin\Quartzmin.csproj", "{68993B4B-EC0F-4392-B1FF-EE31143CE35C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quartzmin.SelfHost", "Quartzmin.SelfHost\Quartzmin.SelfHost.csproj", "{97BD5A3B-2A7B-490E-83D6-D7F1A196AC30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomJobScheduler.SharedService", "CustomJobScheduler.SharedService\CustomJobScheduler.SharedService.csproj", "{892B58F2-B946-40AD-B451-22CDB4FA1061}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomJobScheduler.WebService", "CustomJobScheduler.WebService\CustomJobScheduler.WebService.csproj", "{AD5867CD-CE3A-413E-B977-E20E97E5BB05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomJobScheduler.DbService", "CustomJobScheduler.DbService\CustomJobScheduler.DbService.csproj", "{117A1024-F240-4D65-94A2-346F39513F9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65FE034-525D-4ABB-988A-D072D9A34AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65FE034-525D-4ABB-988A-D072D9A34AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65FE034-525D-4ABB-988A-D072D9A34AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65FE034-525D-4ABB-988A-D072D9A34AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68993B4B-EC0F-4392-B1FF-EE31143CE35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68993B4B-EC0F-4392-B1FF-EE31143CE35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68993B4B-EC0F-4392-B1FF-EE31143CE35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68993B4B-EC0F-4392-B1FF-EE31143CE35C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97BD5A3B-2A7B-490E-83D6-D7F1A196AC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BD5A3B-2A7B-490E-83D6-D7F1A196AC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BD5A3B-2A7B-490E-83D6-D7F1A196AC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BD5A3B-2A7B-490E-83D6-D7F1A196AC30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892B58F2-B946-40AD-B451-22CDB4FA1061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892B58F2-B946-40AD-B451-22CDB4FA1061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892B58F2-B946-40AD-B451-22CDB4FA1061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892B58F2-B946-40AD-B451-22CDB4FA1061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5867CD-CE3A-413E-B977-E20E97E5BB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5867CD-CE3A-413E-B977-E20E97E5BB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5867CD-CE3A-413E-B977-E20E97E5BB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5867CD-CE3A-413E-B977-E20E97E5BB05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{117A1024-F240-4D65-94A2-346F39513F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117A1024-F240-4D65-94A2-346F39513F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117A1024-F240-4D65-94A2-346F39513F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117A1024-F240-4D65-94A2-346F39513F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {126AEAF1-57FB-404B-8B97-B56DD3E450E4}
+	EndGlobalSection
+EndGlobal
